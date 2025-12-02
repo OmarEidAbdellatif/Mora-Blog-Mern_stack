@@ -82,7 +82,7 @@
 ### **1️⃣ تحميل المشروع**
 ```bash
 # نسخ المشروع
-https://github.com/Omar-eid23/Mora-Blog-Mern-stack.git
+https://github.com/OmarEidAbdellatif/Mora-Blog-Mern_stack.git
 
 # الدخول للمجلد
 cd blog-platform
